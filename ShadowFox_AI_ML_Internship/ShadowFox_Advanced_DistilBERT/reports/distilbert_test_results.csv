@@ -1,0 +1,6 @@
+Input Text,Predicted Sentiment,Confidence
+I absolutely love this product!,POSITIVE,99.99
+This is the worst experience ever.,NEGATIVE,99.98
+The service was not bad.,POSITIVE,99.71
+I am not happy with the results.,NEGATIVE,99.98
+The product is average.,NEGATIVE,98.5

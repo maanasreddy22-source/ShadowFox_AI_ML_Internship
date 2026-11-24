@@ -1,0 +1,7 @@
+Input Text,Sentiment,Confidence
+The laptop performance is excellent.,POSITIVE,99.98
+I am unhappy with this service.,NEGATIVE,99.97
+The product is worth buying.,POSITIVE,99.99
+I regret purchasing this item.,NEGATIVE,99.87
+The experience was wonderful.,POSITIVE,99.99
+The quality is disappointing.,NEGATIVE,99.98
