@@ -147,3 +147,11 @@ I would like to thank **ShadowFox** for providing this learning opportunity.
 **Internship:** AI/ML Engineer Internship  
 **Organization:** ShadowFox  
 **Domain:** Artificial Intelligence and Machine Learning
+
+## Trained Model
+
+The trained CNN model is available here:
+
+[Download shadowfox_cats_dogs](https://drive.google.com/file/d/1CUNuUNT0h1PUa8nqHhApoUWe2U3T7OGQ/view?usp=drive_link)
+
+**Model format:** Keras (`.keras`)
