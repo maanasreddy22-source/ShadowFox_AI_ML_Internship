@@ -1,0 +1,6 @@
+{
+    "baseline_threshold": 0.5,
+    "selected_threshold": 0.55,
+    "baseline_accuracy": 0.712,
+    "new_accuracy": 0.728
+}
